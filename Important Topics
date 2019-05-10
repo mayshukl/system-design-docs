@@ -1,0 +1,30 @@
+Varticle Scaling /Horizontal scaling
+CAP theorem
+ACID vs BASE
+Partitioning and Sharing Data
+Consistent hashing
+Optimistic vs Pessimistic Locking
+Strong vs eventual Consistency
+RelationDB vs NO SQL
+Types of NO Sql
+Caching
+Datacenter / Racks / hosts
+CPU/ Memory/Harddrive/ Network bandwidth
+Random / Sequential read/write on disk
+http vs http2 vs web socket
+TCP/IP Modal
+Ipv4 vs ipv6
+TCP vs UDP
+DNS lookup
+Https vs TLS
+Public Key and Certificate Authority
+Symmetric vs asymmetric key
+Load Balancer - L4 vs L7
+CDN & EDGE
+Bloom Filter and Count-Min sketch
+Proxies Consensus over distributed hosts leader election
+Design Pattern and Object Oriented Design
+Visual Machine and containers
+Publisher - subscriber on queue
+Map reduce
+Multithreading , locks, synchronisation
